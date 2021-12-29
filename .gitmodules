@@ -1,0 +1,27 @@
+[submodule "Adv-Lane-Lines-Detection"]
+	path = Adv-Lane-Lines-Detection
+	url = https://github.com/abhisheksreesaila/Adv-Lane-Lines-Detection.git
+[submodule "Behavioral-Cloning"]
+	path = Behavioral-Cloning
+	url = https://github.com/abhisheksreesaila/Behavioral-Cloning.git
+[submodule "Extended-Kalman-Filters"]
+	path = Extended-Kalman-Filters
+	url = https://github.com/abhisheksreesaila/Extended-Kalman-Filters.git
+[submodule "Traffic-Sign-Classifier"]
+	path = Traffic-Sign-Classifier
+	url = https://github.com/abhisheksreesaila/Traffic-Sign-Classifier.git
+[submodule "Path-Planning"]
+	path = Path-Planning
+	url = https://github.com/abhisheksreesaila/Path-Planning.git
+[submodule "Model-Predictive-Controller"]
+	path = Model-Predictive-Controller
+	url = https://github.com/abhisheksreesaila/Model-Predictive-Controller.git
+[submodule "PID-Controller"]
+	path = PID-Controller
+	url = https://github.com/abhisheksreesaila/PID-Controller.git
+[submodule "Particle-Filters"]
+	path = Particle-Filters
+	url = https://github.com/abhisheksreesaila/Particle-Filters.git
+[submodule "Capstone-Project"]
+	path = Capstone-Project
+	url = https://github.com/abhisheksreesaila/Capstone-Project.git
